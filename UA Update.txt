@@ -1,3 +1,7 @@
 'Mozilla/5.0 (Windows NT 6.3; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/619.0.6578.208 Safari/537.36'
 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6619.90 Safari/537.36'
 'Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6604.201 Safari/537.36'
+'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/618.0.6576.58 Safari/537.36'
+'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/619.0.6548.44 Safari/537.36'
+'Mozilla/5.0 (Linux; Android 12; SM-A105M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6566.216 Mobile Safari/537.36'
+'Mozilla/5.0 (Linux; Android 13; SM-T505N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6510.40 Mobile Safari/537.36'
