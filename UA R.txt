@@ -1,3 +1,7 @@
+'Mozilla/5.0 (Linux; Android 9; SM-T507) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6667.30 Mobile Safari/537.36'
+'Mozilla/5.0 (Android 10.4; Mobile; Lenovo TB-X505X; rv:132.0) Gecko/132.0 Firefox/132.0'
+'Mozilla/5.0 (Android 14; Mobile; Lenovo TB-X605LC; rv:131.0esr) Gecko/131.0esr Firefox/131.0esr'
+'Mozilla/5.0 (Android 9.1; Mobile; MI PAD 4; rv:130.0) Gecko/130.0 Firefox/130.0'
 '[FBAN/FB4A;FBAV/159.0.0.34505;FBBV/490122623;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/490122623;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.mlite;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
 '[FBAN/FB4A;FBAV/261.0.0.23245;FBBV/190176607;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/190176607;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
 '[FBAN/FB4A;FBAV/452.0.0.18271;FBBV/299031795;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/299031795;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.lite;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
